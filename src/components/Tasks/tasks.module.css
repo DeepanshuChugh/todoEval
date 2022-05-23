@@ -1,0 +1,13 @@
+.tasks {
+  text-decoration: none;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* sample */
+}
+
+
+.empty {
+  /* sample */
+}

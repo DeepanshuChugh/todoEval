@@ -1,0 +1,25 @@
+.counter {
+  /* TODO */
+  display: flex;
+
+  margin-left: 160px;
+  padding: 4px;
+  text-align: center;
+}
+.plus,.minus{
+  height: 25px;
+  width: 25px;
+  color: #fff;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+}
+.plus{
+  margin-right: 10px;
+}
+.minus{
+  margin-left: 10px;
+}
+.text{
+  font-size: larger;
+}

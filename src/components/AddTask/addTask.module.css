@@ -1,0 +1,33 @@
+.todoForm{
+  /* Sample */
+  width: 350px;
+  height: 51px;
+
+}
+.input{
+  height: 47px;
+  width: 90%;
+  border: none;
+  background: transparent;
+  /* border-bottom: 1px solid lightgray;   */
+  padding-left:15px;
+  font-size: larger;
+}
+.btn{
+  border: none;
+  /* border-bottom: 1px solid lightgray; */
+  cursor: pointer;
+  margin-left: 13px;
+  margin-top:8px;
+  font-size: 24px;
+  font-weight: 900;
+  background: transparent;
+  color: darkcyan;
+}
+.btn:hover{
+  color: aqua   ;
+}
+.input:focus{
+  border: none;
+  outline: none;
+}
