@@ -1,0 +1,30 @@
+
+.input{
+  min-width: 350px;
+  height: 45px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  padding-left: 20px;
+}
+.input:focus{
+  outline: none;
+}
+.addbtn{
+  border: none;
+  background: transparent;
+  font-size: 25px;
+  font-weight: 900;
+  color: #36096d;
+  margin: auto;
+  margin-left: 20px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+.addbtn:hover{
+  color: #37d5d6;
+}
+
+hr{
+  color: lightgray;
+}

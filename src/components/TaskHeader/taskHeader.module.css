@@ -1,0 +1,23 @@
+.taskHeader {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 400px ;
+  padding: 15px 10px;
+  background-color: #36096d;
+  background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);
+  color: white;
+  font-weight: 100;
+  font-size: 20px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  
+
+}
+.logo{
+ 
+  width: 70px;
+  height: 50px;
+  margin-bottom: 10px;
+}

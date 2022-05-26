@@ -1,0 +1,15 @@
+.counter {
+  /* TODO */
+  border: 1px solid blue;
+  position: absolute;
+  right: 35px;
+}
+.btn{
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+}
+.text{
+  margin-left: 5px;
+  margin-right: 5px;
+}
